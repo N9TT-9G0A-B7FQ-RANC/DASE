@@ -1,0 +1,1 @@
+{"transition_covariance": [[0.1, 0.0], [0.0, 0.1]], "observation_covariance": [[0.001, 0.0], [0.0, 0.001]], "initial_state_covariance": [[0.001, 0.0], [0.0, 0.001]]}
